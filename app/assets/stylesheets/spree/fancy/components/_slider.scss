@@ -36,7 +36,7 @@
     }
 
     a {
-      background-color: #dedede;
+      background-color: $c_green;
 
       &.active, &:hover {
         background-color: $c_green;
